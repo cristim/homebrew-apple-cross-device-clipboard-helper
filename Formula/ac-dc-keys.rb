@@ -2,7 +2,7 @@ class AcDcKeys < Formula
   desc "Export Apple Continuity/Universal Clipboard keys from macOS for ac-dc on Linux"
   homepage "https://github.com/cristim/apple-cross-device-clipboard"
   url "https://github.com/cristim/apple-cross-device-clipboard/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 ""
+  sha256 "5160b6882a3b3f17e4ee6758ebeb647dcabb58522bc38d751786ec0a71cbaa71"
   license "MIT"
 
   depends_on :macos
