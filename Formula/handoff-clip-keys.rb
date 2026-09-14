@@ -2,7 +2,7 @@ class HandoffClipKeys < Formula
   desc "Export Apple Continuity/Universal Clipboard keys from macOS for handoff-clip on Linux"
   homepage "https://github.com/cristim/apple-cross-device-clipboard"
   url "https://github.com/cristim/apple-cross-device-clipboard/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "53ef743025598b74a16c0236d5ed6e75a6a9ca2d1a8deb2937f5542220920323"
+  sha256 "be0910977354dd9012276983d88466a3ffb1dd8c552bd30c1d70656f5d964306"
   license "MIT"
 
   depends_on :macos
