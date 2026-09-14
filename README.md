@@ -1,4 +1,4 @@
-# homebrew-apple-cross-device-clipboard-helper
+# homebrew-ac-dc
 
 Homebrew tap for the macOS-side key-export helpers of
 [apple-cross-device-clipboard](https://github.com/cristim/apple-cross-device-clipboard)
@@ -7,7 +7,7 @@ Homebrew tap for the macOS-side key-export helpers of
 ## Install
 
 ```sh
-brew install cristim/apple-cross-device-clipboard-helper/ac-dc-keys
+brew install cristim/ac-dc/ac-dc-keys
 ```
 
 Provides:
